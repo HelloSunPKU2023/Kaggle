@@ -7,7 +7,7 @@ data/
 *.log
 logs/
 temp*/
-
+.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -173,4 +173,6 @@ cython_debug/
 result/
 model/
 results/
+data/
 models/
+.ipynb_checkpoints
